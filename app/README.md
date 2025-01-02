@@ -1,5 +1,4 @@
 # Application de Prédiction de race de chien.
-https://github.com/davidefiocco/streamlit-fastapi-model-serving
 
 ## API
 - FastAPI
