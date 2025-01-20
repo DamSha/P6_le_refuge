@@ -1,4 +1,4 @@
-# Application de Prédiction de race de chien.
+# Application de Prédiction de race de chien
 
 ## API
 - FastAPI
